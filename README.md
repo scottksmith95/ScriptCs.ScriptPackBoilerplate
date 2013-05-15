@@ -24,7 +24,7 @@ Rename BoilerplateContext.cs filename and class name to the name you want to be 
 * Rename the class to the name you used in the previous step.
 * Update the GetContext() method to return the object from the class you defined in the previous step.
 
-## Implement your script pack functionality
+### Implement your script pack functionality
 
 Use the comments inside the two classes to help guide you on creating your script pack.
 
